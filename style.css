@@ -1,7 +1,7 @@
-body{background-color: rgb(199, 237, 150);}
+body{background-color: rgb(68, 207, 250);}
 
-header{color: rgb(0, 255, 8);
-background-color: black;
+header{color: rgb(53, 198, 255);
+background-color: rgb(11, 163, 252);
 padding: 25px;
 font-size: 25px;
 font-family:Georgia;
@@ -9,17 +9,17 @@ text-align: center;
 }
 
 h1{
-    color: rgb(15, 90, 15);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 p{
     font-size: 25px;
     padding: 35px;}
 
-.filme{background-color: red;}
+.filme{background-color: rgb(0, 195, 255);}
 
 .filme{
-    background: rgb(105, 219, 137);
+    background: rgb(0, 204, 255);
   padding: 60px;
   display: flex;
   justify-content: center;
